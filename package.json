@@ -1,0 +1,17 @@
+{
+  "name": "@hrgui/libass-wasm-vite-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "yarn dev",
+    "dev": "vite --port 3000",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "libass-wasm": "^4.1.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.0"
+  }
+}
