@@ -13,5 +13,9 @@
     "libass-wasm": "^4.1.0",
     "typescript": "^5.0.2",
     "vite": "^4.4.0"
+  },
+  "dependencies": {
+    "@storybook/addon-actions": "^7.0.27",
+    "storybook": "^7.0.27"
   }
 }
