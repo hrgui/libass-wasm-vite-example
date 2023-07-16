@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@hrgui/libass-wasm-ts": "^1.0.0",
     "libass-wasm": "^4.1.0",
     "typescript": "^5.0.2",
     "vite": "^4.4.0"
